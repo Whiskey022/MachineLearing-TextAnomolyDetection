@@ -1,0 +1,30 @@
+﻿  Source.cpp
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(47): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(64): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(68): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(70): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(82): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(88): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(90): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(99): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(100): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(111): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(141): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(163): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(183): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(185): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(199): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(214): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(216): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(236): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(239): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(254): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(257): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(273): warning C4018: '<': signed/unsigned mismatch
+e:\programming\c++\textanomolydetection\consoleapplication1\consoleapplication1\source.cpp(276): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> E:\Programming\C++\TextAnomolyDetection\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> E:\Programming\C++\TextAnomolyDetection\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
